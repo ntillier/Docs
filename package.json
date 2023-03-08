@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "my-project",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "node server.js",
+    "serve": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chokidar": "^3.5.3",
+    "express": "^4.18.2",
+    "gray-matter": "^4.0.3",
+    "marked": "^4.2.12",
+    "marked-admonition-extension": "^0.0.2",
+    "marked-extended-tables": "^1.0.5",
+    "marked-linkify-it": "^3.0.1"
+  }
+}

@@ -1,0 +1,6 @@
+---
+slug: /
+---
+
+
+# Some sub folder
